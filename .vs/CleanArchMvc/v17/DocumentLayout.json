@@ -1,15 +1,56 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\matheus.souza.3STECNOLOGIA\\Downloads\\cleanarq\\CleanArchMvc\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{42C9F9AA-A2D3-4281-B2A1-E629EEB710D8}|CleanArchMvc.Application\\CleanArchMvc.Application.csproj|c:\\users\\matheus.souza.3stecnologia\\downloads\\cleanarq\\cleanarchmvc\\cleanarchmvc.application\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42C9F9AA-A2D3-4281-B2A1-E629EEB710D8}|CleanArchMvc.Application\\CleanArchMvc.Application.csproj|solutionrelative:cleanarchmvc.application\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42C9F9AA-A2D3-4281-B2A1-E629EEB710D8}|CleanArchMvc.Application\\CleanArchMvc.Application.csproj|c:\\users\\matheus.souza.3stecnologia\\downloads\\cleanarq\\cleanarchmvc\\cleanarchmvc.application\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42C9F9AA-A2D3-4281-B2A1-E629EEB710D8}|CleanArchMvc.Application\\CleanArchMvc.Application.csproj|solutionrelative:cleanarchmvc.application\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42C9F9AA-A2D3-4281-B2A1-E629EEB710D8}|CleanArchMvc.Application\\CleanArchMvc.Application.csproj|c:\\users\\matheus.souza.3stecnologia\\downloads\\cleanarq\\cleanarchmvc\\cleanarchmvc.application\\interfaces\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42C9F9AA-A2D3-4281-B2A1-E629EEB710D8}|CleanArchMvc.Application\\CleanArchMvc.Application.csproj|solutionrelative:cleanarchmvc.application\\interfaces\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42C9F9AA-A2D3-4281-B2A1-E629EEB710D8}|CleanArchMvc.Application\\CleanArchMvc.Application.csproj|c:\\users\\matheus.souza.3stecnologia\\downloads\\cleanarq\\cleanarchmvc\\cleanarchmvc.application\\cleanarchmvc.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{42C9F9AA-A2D3-4281-B2A1-E629EEB710D8}|CleanArchMvc.Application\\CleanArchMvc.Application.csproj|solutionrelative:cleanarchmvc.application\\cleanarchmvc.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42C9F9AA-A2D3-4281-B2A1-E629EEB710D8}|CleanArchMvc.Application\\CleanArchMvc.Application.csproj|c:\\users\\matheus.souza.3stecnologia\\downloads\\cleanarq\\cleanarchmvc\\cleanarchmvc.application\\mappings\\domaintodtomappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42C9F9AA-A2D3-4281-B2A1-E629EEB710D8}|CleanArchMvc.Application\\CleanArchMvc.Application.csproj|solutionrelative:cleanarchmvc.application\\mappings\\domaintodtomappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42C9F9AA-A2D3-4281-B2A1-E629EEB710D8}|CleanArchMvc.Application\\CleanArchMvc.Application.csproj|c:\\users\\matheus.souza.3stecnologia\\downloads\\cleanarq\\cleanarchmvc\\cleanarchmvc.application\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42C9F9AA-A2D3-4281-B2A1-E629EEB710D8}|CleanArchMvc.Application\\CleanArchMvc.Application.csproj|solutionrelative:cleanarchmvc.application\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42C9F9AA-A2D3-4281-B2A1-E629EEB710D8}|CleanArchMvc.Application\\CleanArchMvc.Application.csproj|c:\\users\\matheus.souza.3stecnologia\\downloads\\cleanarq\\cleanarchmvc\\cleanarchmvc.application\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42C9F9AA-A2D3-4281-B2A1-E629EEB710D8}|CleanArchMvc.Application\\CleanArchMvc.Application.csproj|solutionrelative:cleanarchmvc.application\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15BFFFB2-09C7-4E71-BBF9-30C71A405124}|CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj|c:\\users\\matheus.souza.3stecnologia\\downloads\\cleanarq\\cleanarchmvc\\cleanarchmvc.domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15BFFFB2-09C7-4E71-BBF9-30C71A405124}|CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj|solutionrelative:cleanarchmvc.domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15BFFFB2-09C7-4E71-BBF9-30C71A405124}|CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj|c:\\users\\matheus.souza.3stecnologia\\downloads\\cleanarq\\cleanarchmvc\\cleanarchmvc.domain\\entities\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15BFFFB2-09C7-4E71-BBF9-30C71A405124}|CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj|solutionrelative:cleanarchmvc.domain\\entities\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15BFFFB2-09C7-4E71-BBF9-30C71A405124}|CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj|c:\\users\\matheus.souza.3stecnologia\\downloads\\cleanarq\\cleanarchmvc\\cleanarchmvc.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15BFFFB2-09C7-4E71-BBF9-30C71A405124}|CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj|solutionrelative:cleanarchmvc.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "DockedWidth": 391,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,6 +63,133 @@
             {
               "$type": "Bookmark",
               "Name": "ST:1312210219:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\matheus.souza.3STECNOLOGIA\\Downloads\\cleanarq\\CleanArchMvc\\CleanArchMvc.Application\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "CleanArchMvc.Application\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\matheus.souza.3STECNOLOGIA\\Downloads\\cleanarq\\CleanArchMvc\\CleanArchMvc.Application\\Services\\ProductService.cs",
+              "RelativeToolTip": "CleanArchMvc.Application\\Services\\ProductService.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAwwDMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T21:28:54.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\matheus.souza.3STECNOLOGIA\\Downloads\\cleanarq\\CleanArchMvc\\CleanArchMvc.Application\\Services\\CategoryService.cs",
+              "RelativeDocumentMoniker": "CleanArchMvc.Application\\Services\\CategoryService.cs",
+              "ToolTip": "C:\\Users\\matheus.souza.3STECNOLOGIA\\Downloads\\cleanarq\\CleanArchMvc\\CleanArchMvc.Application\\Services\\CategoryService.cs",
+              "RelativeToolTip": "CleanArchMvc.Application\\Services\\CategoryService.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwBoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T14:11:27.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\matheus.souza.3STECNOLOGIA\\Downloads\\cleanarq\\CleanArchMvc\\CleanArchMvc.Application\\Interfaces\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "CleanArchMvc.Application\\Interfaces\\ICategoryService.cs",
+              "ToolTip": "C:\\Users\\matheus.souza.3STECNOLOGIA\\Downloads\\cleanarq\\CleanArchMvc\\CleanArchMvc.Application\\Interfaces\\ICategoryService.cs",
+              "RelativeToolTip": "CleanArchMvc.Application\\Interfaces\\ICategoryService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T14:07:37.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CleanArchMvc.Application.csproj",
+              "DocumentMoniker": "C:\\Users\\matheus.souza.3STECNOLOGIA\\Downloads\\cleanarq\\CleanArchMvc\\CleanArchMvc.Application\\CleanArchMvc.Application.csproj",
+              "RelativeDocumentMoniker": "CleanArchMvc.Application\\CleanArchMvc.Application.csproj",
+              "ToolTip": "C:\\Users\\matheus.souza.3STECNOLOGIA\\Downloads\\cleanarq\\CleanArchMvc\\CleanArchMvc.Application\\CleanArchMvc.Application.csproj",
+              "RelativeToolTip": "CleanArchMvc.Application\\CleanArchMvc.Application.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-21T14:06:00.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductDTO.cs",
+              "DocumentMoniker": "C:\\Users\\matheus.souza.3STECNOLOGIA\\Downloads\\cleanarq\\CleanArchMvc\\CleanArchMvc.Application\\DTOs\\ProductDTO.cs",
+              "RelativeDocumentMoniker": "CleanArchMvc.Application\\DTOs\\ProductDTO.cs",
+              "ToolTip": "C:\\Users\\matheus.souza.3STECNOLOGIA\\Downloads\\cleanarq\\CleanArchMvc\\CleanArchMvc.Application\\DTOs\\ProductDTO.cs",
+              "RelativeToolTip": "CleanArchMvc.Application\\DTOs\\ProductDTO.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAA5wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T14:01:34.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CategoryDTO.cs",
+              "DocumentMoniker": "C:\\Users\\matheus.souza.3STECNOLOGIA\\Downloads\\cleanarq\\CleanArchMvc\\CleanArchMvc.Application\\DTOs\\CategoryDTO.cs",
+              "RelativeDocumentMoniker": "CleanArchMvc.Application\\DTOs\\CategoryDTO.cs",
+              "ToolTip": "C:\\Users\\matheus.souza.3STECNOLOGIA\\Downloads\\cleanarq\\CleanArchMvc\\CleanArchMvc.Application\\DTOs\\CategoryDTO.cs",
+              "RelativeToolTip": "CleanArchMvc.Application\\DTOs\\CategoryDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T14:01:26.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DomainToDTOMappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\matheus.souza.3STECNOLOGIA\\Downloads\\cleanarq\\CleanArchMvc\\CleanArchMvc.Application\\Mappings\\DomainToDTOMappingProfile.cs",
+              "RelativeDocumentMoniker": "CleanArchMvc.Application\\Mappings\\DomainToDTOMappingProfile.cs",
+              "ToolTip": "C:\\Users\\matheus.souza.3STECNOLOGIA\\Downloads\\cleanarq\\CleanArchMvc\\CleanArchMvc.Application\\Mappings\\DomainToDTOMappingProfile.cs",
+              "RelativeToolTip": "CleanArchMvc.Application\\Mappings\\DomainToDTOMappingProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T14:01:14.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\matheus.souza.3STECNOLOGIA\\Downloads\\cleanarq\\CleanArchMvc\\CleanArchMvc.Domain\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "CleanArchMvc.Domain\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\matheus.souza.3STECNOLOGIA\\Downloads\\cleanarq\\CleanArchMvc\\CleanArchMvc.Domain\\Entities\\Product.cs",
+              "RelativeToolTip": "CleanArchMvc.Domain\\Entities\\Product.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAADkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T18:04:40.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\matheus.souza.3STECNOLOGIA\\Downloads\\cleanarq\\CleanArchMvc\\CleanArchMvc.Domain\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "CleanArchMvc.Domain\\Entities\\Category.cs",
+              "ToolTip": "C:\\Users\\matheus.souza.3STECNOLOGIA\\Downloads\\cleanarq\\CleanArchMvc\\CleanArchMvc.Domain\\Entities\\Category.cs",
+              "RelativeToolTip": "CleanArchMvc.Domain\\Entities\\Category.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T18:04:29.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Entity.cs",
+              "DocumentMoniker": "C:\\Users\\matheus.souza.3STECNOLOGIA\\Downloads\\cleanarq\\CleanArchMvc\\CleanArchMvc.Domain\\Entities\\Entity.cs",
+              "RelativeDocumentMoniker": "CleanArchMvc.Domain\\Entities\\Entity.cs",
+              "ToolTip": "C:\\Users\\matheus.souza.3STECNOLOGIA\\Downloads\\cleanarq\\CleanArchMvc\\CleanArchMvc.Domain\\Entities\\Entity.cs",
+              "RelativeToolTip": "CleanArchMvc.Domain\\Entities\\Entity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T18:04:25.05Z"
             }
           ]
         }
